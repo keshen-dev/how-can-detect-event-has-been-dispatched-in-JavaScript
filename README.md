@@ -1,0 +1,1 @@
+# how-can-detect-event-has-been-dispatched-in-JavaScript
